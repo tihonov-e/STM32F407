@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>.\User;.\Config;D:\Keil_v5\lib\STM32F4xx\STM32F4xx_StdPeriph_Driver\inc;D:\Keil_v5\lib\STM32F4xx\STM32F4xx_StdPeriph_Driver\src;D:\Keil_v5\lib\STM32F4xx\CMSIS\Include;D:\Keil_v5\lib\STM32F4xx\CMSIS\Device\ST\STM32F4xx;D:\Keil_v5\lib\STM32F4xx\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm</IncludePath>
+              <IncludePath>.\User;.\Config;D:\Keil_v5\lib\STM32F4xx\STM32F4xx_StdPeriph_Driver\inc;D:\Keil_v5\lib\STM32F4xx\STM32F4xx_StdPeriph_Driver\src;D:\Keil_v5\lib\STM32F4xx\CMSIS\Device\ST\STM32F4xx;D:\Keil_v5\lib\STM32F4xx\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm;D:\Keil_v5\lib\STM32F4xx\CMSIS\Include</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
